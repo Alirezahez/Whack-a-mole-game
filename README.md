@@ -88,10 +88,16 @@ the game.
 (d) values of WinningSignalTime and LosingSignalTime.
 
 $$$
-a) All you need to do is change the time in      * PreGameDelay EQU 587545; Pre-game wait time after initiated*
+a) All you need to do is change the time in      
+
+          PreGameDelay EQU 587545; Pre-game wait time after initiated*
+	  
  in the code and set it as you wish it be played.
 
-b) All you need to do is change the time in      *ReactTimeDelay EQU 565754; Reaction Time delay time to platy each mole*
+b) All you need to do is change the time in   
+
+         ReactTimeDelay EQU 565754; Reaction Time delay time to platy each mole
+	 
 in the code and set it as you wish it be played.
 
 c) All you need to do is change the R8 velue in the below code:
