@@ -3,12 +3,6 @@ Whack-a-mole is basically a game in which there are holes on a surface and rando
 
 Demo 
 
-<object width="425" height="350">
-  <param name="movie" value="http://https://www.youtube.com/watch?v=WXZU4MgGGlg" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=WXZU4MgGGlg"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/WXZU4MgGGlg)
 
 
