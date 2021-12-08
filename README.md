@@ -3,6 +3,6 @@ Whack-a-mole is basically a game in which there are holes on a surface and rando
 
 Demo 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WXZU4MgGGlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](<iframe width="560" height="315" src="https://www.youtube.com/embed/WXZU4MgGGlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
